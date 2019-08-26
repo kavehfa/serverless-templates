@@ -1,0 +1,9 @@
+/Templates/NetCoreProject/Api/obj
+/Templates/NetCoreProject/Api/bin
+/Templates/NetCoreProject/Client/obj
+/Templates/NetCoreProject/Client/bin
+/Templates/NetCoreProject/ClientGenerator/bin
+/Templates/NetCoreProject/ClientGenerator/obj
+/Templates/NetCoreProject/Tests/obj
+/Templates/NetCoreProject/Tests/bin
+/Templates/NetCoreProject/.vs
