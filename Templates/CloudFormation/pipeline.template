@@ -277,6 +277,11 @@
 				  "Name" : "EnvironmentName",
 				  "Type" : "PLAINTEXT",
 				  "Value" : { "Ref" : "EnvironmentName" }
+				},
+				{
+				  "Name" : "ArtifactBucket",
+				  "Type" : "PLAINTEXT",
+				  "Value" : { "Ref" : "ArtifactBucket" }
 				}
 			],
             "ComputeType" : "BUILD_GENERAL1_SMALL",
